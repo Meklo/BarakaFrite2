@@ -1,3 +1,12 @@
+UPDATE 26/09/2016
+=================
+
+This was a simple project based on the ZendFramework tutorial to get my hands on the framework technologies back in 2014
+It only contains the authentification system which allows to manage a basic order system
+
+
+
+
 ZendSkeletonApplication
 =======================
 
