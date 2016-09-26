@@ -5,7 +5,7 @@ This was a simple project based on the ZendFramework tutorial to get my hands on
 It only contains the authentification system which allows to manage a basic order system
 
 
-
+```
 
 ZendSkeletonApplication
 =======================
@@ -84,3 +84,5 @@ project and you should be ready to go! It should look something like below:
             Allow from all
         </Directory>
     </VirtualHost>
+
+```
